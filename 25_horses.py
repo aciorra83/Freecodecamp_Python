@@ -1,4 +1,6 @@
-#number function is prefered method for generating random lists of integers
+##Problem is to find the fastest 3 horses out of 25 without timing equipment
+
+##number function is prefered method for generating random lists of integers
 
 ##list_numbers = []
 ##
